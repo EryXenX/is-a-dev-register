@@ -1,0 +1,11 @@
+{
+  "description": "GitDrop - File sharing platform",
+  "domain": "is-a.dev",
+  "subdomain": "gitdrop",
+  "owner": {
+    "username": "EryXenX"
+  },
+  "record": {
+    "CNAME": "gitdrop.onrender.com"
+  }
+}
