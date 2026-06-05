@@ -1,6 +1,7 @@
 {
     "owner": {
-        "username": "EryXenX"
+        "username": "EryXenX",
+        "email": "eryxenx@gmail.com"
     },
     "records": {
         "CNAME": "exxdev.onrender.com"
